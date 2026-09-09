@@ -4,7 +4,7 @@
 
 **Percepción económica, posición objetiva e integración micro–macro con ESS y Eurostat**
 
-![Versión](https://img.shields.io/badge/versión-2.0-555555)
+
 ![Estado](https://img.shields.io/badge/estado-completado-2f855a)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-VBA-217346?logo=microsoft-excel&logoColor=white)
