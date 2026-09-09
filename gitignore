@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Archivos temporales creados por Excel
+~$*.xlsx
+~$*.xlsm
